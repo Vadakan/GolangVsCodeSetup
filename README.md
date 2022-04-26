@@ -44,6 +44,7 @@
         "documentLink": true,
         "format": true
     },
+    
     "[go]": {
         "editor.CodeActionOnSave": {
             "editor.formatOnSave": false,
