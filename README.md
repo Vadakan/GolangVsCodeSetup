@@ -18,7 +18,7 @@
 # next step, click 'ctl + shift + p' and select the 'settings.json' file and paste the below settings. There will be some setting exists by default. 
 # along with that paste the below settings as well. 
 
- "go.useLanguageServer": true,
+     "go.useLanguageServer": true,
     "go.languageServerExperimentalFeatures":{
         "diagnostics": true,
         "documentLink": true,
@@ -34,7 +34,6 @@
         "completeUnimported": true,
         "deepCompletition": true,
     },
-    
    
 # whole 'settings.json' file
 
