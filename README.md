@@ -71,4 +71,4 @@
     "window.zoomLevel": 1,
 }
 
-# That's it 'restart the visual studio code'. We are all set.
+# restart the visual studio code'. We are all set.
