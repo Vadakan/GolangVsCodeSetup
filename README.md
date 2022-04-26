@@ -35,40 +35,5 @@
         "deepCompletition": true,
     },
    
-# whole 'settings.json' file
-
-{
-    "go.useLanguageServer": true,
-    "go.languageServerExperimentalFeatures":{
-        "diagnostics": true,
-        "documentLink": true,
-        "format": true
-    },
-    "[go]": {
-        "editor.CodeActionOnSave": {
-            "editor.formatOnSave": false,
-            "source.organizeImports": true,
-        }
-    },
-    "gopls":{
-        "completeUnimported": true,
-        "deepCompletition": true,
-    },
-    "explorer.confirmDelete": false,
-    "git.autofetch": true,
-    "go.toolsManagement.autoUpdate": true,
-    "go.autocompleteUnimportedPackages": true,
-    "gopls": {
-    
-        "completeUnimported": true,
-        "usePlaceholders": true,
-        "completionDocumentation": true,
-        "hoverKind": "SynopsisDocumentation"
-    },
-    "go.toolsEnvVars": {
-        "GO111MODULE": "on",
-    },
-    "window.zoomLevel": 1,
-}
 
 # restart the visual studio code'. We are all set.
